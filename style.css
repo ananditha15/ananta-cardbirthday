@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  background: #f6f6f6;
+  font-family: Georgia, serif;
+}
+
+.card {
+  background: white;
+  padding: 30px;
+  border-radius: 14px;
+}
+.hidden {
+  display: none;
+}
